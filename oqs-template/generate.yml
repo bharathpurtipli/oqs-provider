@@ -610,6 +610,27 @@ kems:
           nist-round: 4
           hybrid_group: secp521_r1
           nid: '65055'
+  -
+    family: 'HQC-COMPRESSION'
+    name_group: 'hqccompression1'
+    nid: '65100'
+    oqs_alg: 'OQS_KEM_alg_hqc_compression_1'
+    enable_kem: true
+    enable_tls: true
+  -
+    family: 'HQC-COMPRESSION'
+    name_group: 'hqccompression3'
+    nid: '65101'
+    oqs_alg: 'OQS_KEM_alg_hqc_compression_3'
+    enable_kem: true
+    enable_tls: true
+  -
+    family: 'HQC-COMPRESSION'
+    name_group: 'hqccompression5'
+    nid: '65102'
+    oqs_alg: 'OQS_KEM_alg_hqc_compression_5'
+    enable_kem: true
+    enable_tls: true
 
 kem_nid_end: '0x0250'
 kem_nid_hybrid_end: '0x2FFF'

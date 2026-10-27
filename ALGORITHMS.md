@@ -76,6 +76,9 @@ The following list of algorithms may change when loading oqsprovider (version >=
 | x448_hqc3 | 65080 | Yes | OQS_CODEPOINT_X448_HQC3 |
 | hqc5 | 65081 | Yes | OQS_CODEPOINT_HQC5 |
 | p521_hqc5 | 65082 | Yes | OQS_CODEPOINT_P521_HQC5 |
+| hqccompression1 | 65100 | Yes | OQS_CODEPOINT_HQCCOMPRESSION1 |
+| hqccompression3 | 65101 | Yes | OQS_CODEPOINT_HQCCOMPRESSION3 |
+| hqccompression5 | 65102 | Yes | OQS_CODEPOINT_HQCCOMPRESSION5 |
 | mldsa44 | 0x0904 |Yes| OQS_CODEPOINT_MLDSA44
 | p256_mldsa44 | 0xff06 |Yes| OQS_CODEPOINT_P256_MLDSA44
 | rsa3072_mldsa44 | 0xff07 |Yes| OQS_CODEPOINT_RSA3072_MLDSA44
@@ -434,5 +437,8 @@ If [OQS_KEM_ENCODERS](CONFIGURE.md#OQS_KEM_ENCODERS) is enabled the following li
 | x448_hqc3 | NULL | OQS_OID_X448_HQC3
 | hqc5 | NULL | OQS_OID_HQC5
 | p521_hqc5 | NULL | OQS_OID_P521_HQC5
+| hqccompression1 |  | OQS_OID_HQCCOMPRESSION1
+| hqccompression3 |  | OQS_OID_HQCCOMPRESSION3
+| hqccompression5 |  | OQS_OID_HQCCOMPRESSION5
 <!--- OQS_TEMPLATE_FRAGMENT_OIDS_END -->
 
