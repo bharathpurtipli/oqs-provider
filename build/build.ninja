@@ -548,7 +548,7 @@ build CMakeFiles/ContinuousSubmit | ${cmake_ninja_workdir}CMakeFiles/ContinuousS
 build cmake_object_order_depends_target_oqsprovider: phony || oqsprov/CMakeFiles/oqsprovider.dir
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqsprov.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqsprov.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -558,7 +558,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov.c.o: C_COMPILER__oqsprovider_un
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_capabilities.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqsprov_capabilities.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_capabilities.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -568,7 +568,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_capabilities.c.o: C_COMPILER__o
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_keys.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqsprov_keys.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_keys.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -578,7 +578,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_keys.c.o: C_COMPILER__oqsprovid
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_kmgmt.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_kmgmt.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_kmgmt.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -588,7 +588,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_kmgmt.c.o: C_COMPILER__oqsprovider_
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_sig.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_sig.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_sig.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -598,7 +598,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_sig.c.o: C_COMPILER__oqsprovider_un
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_kem.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_kem.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_kem.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -608,7 +608,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_kem.c.o: C_COMPILER__oqsprovider_un
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_encode_key2any.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_encode_key2any.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_encode_key2any.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -618,7 +618,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_encode_key2any.c.o: C_COMPILER__oqs
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_endecoder_common.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_endecoder_common.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_endecoder_common.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -628,7 +628,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_endecoder_common.c.o: C_COMPILER__o
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqs_decode_der2key.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqs_decode_der2key.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqs_decode_der2key.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
@@ -638,7 +638,7 @@ build oqsprov/CMakeFiles/oqsprovider.dir/oqs_decode_der2key.c.o: C_COMPILER__oqs
   TARGET_PDB = lib/oqsprovider.pdb
 
 build oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_bio.c.o: C_COMPILER__oqsprovider_unscanned_Release /work/oqs-provider/oqsprov/oqsprov_bio.c || cmake_object_order_depends_target_oqsprovider
-  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (36cafae)\"" -Doqsprovider_EXPORTS
+  DEFINES = -DNDEBUG -DOQSPROVIDER_VERSION_TEXT=\"0.12.0-dev\" -DOQS_PROVIDER_COMMIT="\" (db1eac3)\"" -Doqsprovider_EXPORTS
   DEP_FILE = oqsprov/CMakeFiles/oqsprovider.dir/oqsprov_bio.c.o.d
   FLAGS = -O3 -DNDEBUG -std=gnu11 -fPIC -fvisibility=hidden -Wunused-function
   INCLUDES = -I/usr/local/openssl/include -isystem /usr/local/liboqs-hqc/include -isystem /usr/local/liboqs-hqc/include/oqs
